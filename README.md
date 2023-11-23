@@ -2,12 +2,9 @@
 
 ## Introduction
 
-This README provides an overview of a project where we build machine learning (ML) models in Python and Julia using the scikit-learn library. The primary objective of this project is to compare the performance of ML models implemented in both programming languages and identify which language is better suited for specific types of models.
+An overview of a project where we build machine learning (ML) models in Python and Julia using the scikit-learn library. The primary objective of this project is to compare the performance of ML models implemented in both programming languages and identify which language is better suited for specific types of models.
 
 
-# **Machine Learning Models built with**
-
-# **Python Vs Julia**
 
 **Dataset Used:** [https://www.kaggle.com/datasets/kk0105/allflowmeter-hikari2021](https://www.kaggle.com/datasets/kk0105/allflowmeter-hikari2021)
 
